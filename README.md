@@ -2,9 +2,9 @@
 <img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
 <div align="center">
 	<!--<img width="80%" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />-->
-	<img width="50%" src="images/code.gif" />
+	<img width="50%" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 	<hr />
-	<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!" /> <br />
+	<img width="80%" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" /> <br />
 	<p>Designs, coding, and writes about IT Security, ethics, research, and dev. This site is where I share my experiences.</p>
 	<br />
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
