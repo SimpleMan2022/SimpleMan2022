@@ -2,8 +2,6 @@
 <div align="center">
 <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Adit+Nugroho!" /> <br />
 </div>
-
-<h3 align="center">life needs knowledge, death needs knowledge, knowledge for wealth, knowledge for charity.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simpleman2022&label=Profile%20views&color=0e75b6&style=flat" alt="simpleman2022" /> </p>
 
