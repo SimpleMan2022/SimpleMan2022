@@ -1,4 +1,3 @@
-<div style="text-align: center;">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditnugroho__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rosyadadityanugroho/) 
 
@@ -15,4 +14,3 @@
 [![](https://visitcount.itsvg.in/api?id=simpleman2022&icon=4&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
